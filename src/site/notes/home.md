@@ -10,9 +10,9 @@ This is my digital garden where I document my learning journey, share insights, 
 
 ## 🗂️ Quick Navigation
 
-	### Algorithms
++ Algorithms
 
-	### Math for AI
++ Math for AI
 
 
 ## 💡 Latest Updates
