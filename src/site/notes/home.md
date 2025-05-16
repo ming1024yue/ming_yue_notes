@@ -14,6 +14,8 @@ This is my digital garden where I document my learning journey, share insights, 
 
 + Math for AI
 
++ Math & CS contest
+
 
 ## 💡 Latest Updates
 - Added new algorithms and implementations
