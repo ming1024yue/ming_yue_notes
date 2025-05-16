@@ -12,6 +12,8 @@ This is my digital garden where I document my learning journey, share insights, 
 
 ### 🧮 Algorithms
 
+### 🤖Math for AI
+
 
 ## 💡 Latest Updates
 - Added new algorithms and implementations
