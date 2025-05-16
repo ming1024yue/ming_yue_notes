@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math-for-ai/essential-math-for-ai/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/math-for-ai/essential-math-for-ai/"}
 ---
 
 
