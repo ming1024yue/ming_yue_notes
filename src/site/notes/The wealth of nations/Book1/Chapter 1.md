@@ -12,7 +12,7 @@ Adam Smith introduces his foundational economic principle—the division of labo
 
 Smith identifies three primary advantages stemming from the division of labour:
 
-1. **Increased Dexterity**: <mark style="background: #ADCCFFA6;">Workers gain expertise through repeated focus on a single task, dramatically improving speed and skill</mark>.
+1. **Increased Dexterity(n.熟练)**: <mark style="background: #ADCCFFA6;">Workers gain expertise through repeated focus on a single task, dramatically improving speed and skill</mark>.
     
 2. **Time Efficiency**: <mark style="background: #ADCCFFA6;">Specialization eliminates the time wasted switching between tasks and adjusting tools or mindset.</mark>
     
@@ -63,3 +63,11 @@ He concludes that the division of labour creates widespread prosperity. Even a c
 - **Universal Prosperity through Division of Labour**
     
     - <mark style="background: #ADCCFFA6;">Even the simplest goods consumed by ordinary people involve numerous specialized contributions, creating extensive social and economic benefits.</mark>
+
+
+### 个人总结
+
+分工可以极大的提高社会的运行效率和生产力。主要是因为分工使得工人更专注于他们的任务，长期重复可以增加熟练度，减少因任务之间的切换而产生的时间浪费，在这之上，分工还使得工人在他所做的领域更容易创新，因为他对该领域非常了解。
+
+市场越大，分工越细。制造业比农业更容易分工协作。人类离不开分工合作，当今世界即使最简单的产品也包含了很多人的工作。
+

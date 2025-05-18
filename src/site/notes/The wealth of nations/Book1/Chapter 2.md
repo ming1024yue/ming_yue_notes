@@ -32,3 +32,8 @@ In Chapter II of _The Wealth of Nations_, Adam Smith discusses the fundamental c
 6. **Human Society Benefits from Diverse Talents through Exchange**:
     
     Unlike animals, whose differing abilities do not benefit one another, humans’ diverse talents, when combined through exchange, contribute significantly to collective welfare.
+
+
+### 个人总结
+
+分工是人类的自然行为。它来源于人们对商品和服务的交易需求，根据亚当斯密的理论，这都来源于人类最根本特性：利己性。由于这一特性以及人类渴望从他人那里得到商品和服务，加上人类对于不同技能的天赋（有人擅长做手工，有人擅长计算，有人擅长阅读），形成了社会上的专业分工。人类之间的这种分工和交易，促进了社会发展，提高了社会生产力和社会福利。
