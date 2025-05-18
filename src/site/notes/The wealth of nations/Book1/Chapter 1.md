@@ -14,9 +14,9 @@ Smith identifies three primary advantages stemming from the division of labour:
 
 1. **Increased Dexterity**: <mark style="background: #ADCCFFA6;">Workers gain expertise through repeated focus on a single task, dramatically improving speed and skill</mark>.
     
-2. **Time Efficiency**: <mark style="background: #FF5582A6;">Specialization eliminates the time wasted switching between tasks and adjusting tools or mindset.</mark>
+2. **Time Efficiency**: <mark style="background: #ADCCFFA6;">Specialization eliminates the time wasted switching between tasks and adjusting tools or mindset.</mark>
     
-3. **Innovation and Machinery**: <mark style="background: #FFB86CA6;">Workers, through specialized knowledge, are more likely to innovate and create machinery that significantly simplifies labour.</mark>
+3. **Innovation and Machinery**: <mark style="background: #ADCCFFA6;">Workers, through specialized knowledge, are more likely to innovate and create machinery that significantly simplifies labour.</mark>
     
 
   
@@ -52,14 +52,14 @@ He concludes that the division of labour creates widespread prosperity. Even a c
     
 - **Market Size and Division of Labour**
     
-    - <mark style="background: #ABF7F7A6;">Specialization depends on market size; larger markets sustain greater division of labour.</mark>
+    - <mark style="background: #ADCCFFA6;">Specialization depends on market size; larger markets sustain greater division of labour.</mark>
         
     
 - **Manufacturing vs. Agriculture**
     
-    - <mark style="background: #FF5582A6;">Manufacturing is more suited to division of labour; agriculture, due to seasonal tasks, offers fewer opportunities for specialization</mark>.
+    - <mark style="background: #ADCCFFA6;">Manufacturing is more suited to division of labour; agriculture, due to seasonal tasks, offers fewer opportunities for specialization.</mark>
         
     
 - **Universal Prosperity through Division of Labour**
     
-    - <mark style="background: #FFB8EBA6;">Even the simplest goods consumed by ordinary people involve numerous specialized contributions, creating extensive social and economic benefits.</mark>
+    - <mark style="background: #ADCCFFA6;">Even the simplest goods consumed by ordinary people involve numerous specialized contributions, creating extensive social and economic benefits.</mark>
