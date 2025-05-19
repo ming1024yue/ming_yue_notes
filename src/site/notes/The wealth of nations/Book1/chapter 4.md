@@ -64,7 +64,7 @@
 In essence, this chapter traces the logical and historical development of money from the inefficiencies of barter to the establishment of coined metal currency, highlighting the practical reasons behind each step and foreshadowing the problem of debasement. It then sets the stage for a deeper analysis of value and price.
 
 
-###个人总结
+### 个人总结
 物物交换的问题在于没有办法总是满足双方的需求。比如屠夫想用肉换面包，但是面包师不一定需要肉，这就没办法达成交易。 所以早期人们会把一些广泛需求的物质当成交换媒介，比如牛，盐，糖等。最终金属脱颖而出，原因在于它的耐久度和可分割性。金属的缺点是称量和验证。所以早期的政府会给这些金属加上官印，到后来的制定金属的标准价值。这就货币的产生过程。
 
 在下半节，斯密还提到了价值的含义。一个是使用价值，另外一个是交换价值。
