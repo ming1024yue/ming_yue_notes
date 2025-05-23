@@ -102,7 +102,7 @@ This design outlines a **2D platform puzzle-solving game** for PC, developed sol
   
 
 ## **Aesthetic and Narrative Style**
-![Pasted image 20250523131512.png](/img/user/Pasted%20image%2020250523131512.png)_A surreal pixel-art scene from_ **_Animal Well_**_, exemplifying the mysterious atmosphere and strange creatures that inspire the game’s tone._
+![animal_well.png](/img/user/images/animal_well.png)_A surreal pixel-art scene from_ **_Animal Well_**_, exemplifying the mysterious atmosphere and strange creatures that inspire the game’s tone._
 
   
 
