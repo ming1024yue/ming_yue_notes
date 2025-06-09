@@ -12,9 +12,7 @@ This is my digital garden where I document my learning journey, share insights, 
 
 + Algorithms
 
-+ Math for AI
-
-+ Math & CS contest
++ AI
   
 + Books Notes
 
