@@ -83,3 +83,7 @@
 - When you spend $10 on coffee, you are actually paying with your labor—the effort and time required to earn that $10 (real price).
     
 - If your salary increases, but prices increase faster, your real income hasn't improved (gap between nominal price and real price).
+
+
+### 个人总结
+劳动是商品的唯一衡量价值，世界的财富是由劳动积累的，而不是金银。
